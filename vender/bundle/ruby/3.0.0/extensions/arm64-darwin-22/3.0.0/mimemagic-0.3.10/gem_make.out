@@ -1,0 +1,3 @@
+current directory: /Users/isajikuniyuki/workspace/diveintopost-rails6/vender/bundle/ruby/3.0.0/gems/mimemagic-0.3.10/ext/mimemagic
+/Users/isajikuniyuki/.rbenv/versions/3.0.1/bin/ruby -I/Users/isajikuniyuki/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -rrubygems /Users/isajikuniyuki/workspace/diveintopost-rails6/vender/bundle/ruby/3.0.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/Users/isajikuniyuki/workspace/diveintopost-rails6/vender/bundle/ruby/3.0.0/extensions/arm64-darwin-22/3.0.0/mimemagic-0.3.10 RUBYLIBDIR\=/Users/isajikuniyuki/workspace/diveintopost-rails6/vender/bundle/ruby/3.0.0/extensions/arm64-darwin-22/3.0.0/mimemagic-0.3.10
+mkdir -p /Users/isajikuniyuki/workspace/diveintopost-rails6/vender/bundle/ruby/3.0.0/extensions/arm64-darwin-22/3.0.0/mimemagic-0.3.10/mimemagic
